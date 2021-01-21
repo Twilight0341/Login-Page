@@ -1,8 +1,8 @@
 import React, { Fragment } from "react";
-import "../css/app.scss";
-import "../css/style.scss";
-import Header from "../Components/Header";
-import Products from "../Components/Produsts";
+import "css/app.scss";
+import "css/style.scss";
+import Header from "Components/Header";
+import Products from "Components/Produsts";
 
 class App extends React.Component {
   render() {

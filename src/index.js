@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import Login from "./Components/Login";
 import App from "./Components/App";
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<Login />, document.getElementById("root"));
 
 /*
 To create a compomemt and render on website by using React, You must be following this step:
